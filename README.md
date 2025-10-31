@@ -1,2 +1,2 @@
-# LMS
-Library Management System
+# Sales Dashboard
+Sales Dashboard
